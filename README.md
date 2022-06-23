@@ -2,7 +2,7 @@
 
 An analysis on text in job postings - using a NaiveBayesClassifier (sklearn) with both Multinomial and Binomial distributions to predict if the salary offered for posted job openings are considered to be high/low.
 
-Comments in primary code file _Individual_Project.ipynb_ describe logic and steps taken.
+Comments in code file _Individual_Project.ipynb_ describe logic and steps taken.
 
 ## Dataset
 
